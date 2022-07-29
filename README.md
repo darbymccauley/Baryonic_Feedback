@@ -1,2 +1,2 @@
 # Baryonic Feedback
-Cosmological dependence of baryonic feedback: Measuring the effects of baryonic feedback on the matter power spectrum using CAMB, CLASS, HMCode, and CAMELS simulation data.
+Cosmological dependence of baryonic feedback: Visualizing the effects of baryonic feedback on the matter power spectrum using CAMB, CLASS, and HMCode. This repo serves as a personal practice "notebook" for the work done with Prof. Jia Liu at the Kavli IPMU at the University of Tokyo. This repo holds scratch work used to familiarize myself with CAMB, CLASS, HMCode, MCMC, and other optimization methods, all in preparation for curve fitting to CAMELS simulation data. The repo containing this project's offical work can be found at: https://github.com/liuxx479/cosmo_dep_feedback
